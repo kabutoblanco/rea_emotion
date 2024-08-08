@@ -1,0 +1,27 @@
+#watch {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px 5px 0 0;
+    padding: 3px;
+}
+#full {
+    position: absolute;
+    top: 0;
+    right: 40px;
+    z-index: 1;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px 5px 0 0;
+    padding: 6px 3px;
+}
+#topbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
